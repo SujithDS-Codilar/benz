@@ -1,0 +1,171 @@
+.text {
+    color: white;
+    text-align: left;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+    padding-left: 60px;
+}
+
+.fuel_consumption{
+    color: white;
+    font-size: 15px;
+    text-align:left;
+    padding-left: 60px;
+   }
+
+.footer_list {
+    font-family: MBCorpo Title,DaimlerCAC-Regular,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    color: white;
+    display: flex;
+    padding-left: 90px;
+}
+
+.footer_list h1{
+    color: white;
+    width: 25%;
+}
+
+
+.more_items ul{
+    width: 90%;
+}
+
+.more_items{
+    height: 210px;
+}
+
+#more_topics li{
+    color: white;
+    font-size: 15px;
+    display: flex;
+    padding-left: 90px;
+}
+
+#shopping li{
+    color: white;
+    font-size: 15px;
+    display: flex;
+    padding-left: 510px;
+    position: relative;
+    top: -135px;
+}
+
+#about li{
+    color: white;
+    font-size: 15px;
+    display: flex;
+    padding-left: 920px;
+    position: relative;
+    top: -265px;
+}
+
+#items li{
+    color: white;
+    font-size: 15px;
+    display: flex;
+    padding-left: 1330px;
+    position: relative;
+    top: -455px;
+}
+
+.Show{
+    color: white;
+    font-size: 20px;
+    border: 2px solid white;
+    text-align: center;
+    width:10%;
+    margin-left: 800px;
+    margin-top: 10px;
+    background-color: gray;
+}
+
+.Arrow_down{
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    display: inline-block;
+    padding-top: 20px;
+    border :  solid white;
+    border-width: 0 0.5px 0.5px 0;
+    padding-left:20px ;
+}
+
+.txt p{
+    font-size: 30px;
+    color: white;
+    font-family:  Title,DaimlerCAC-Regular,Helvetica,Arial,sans-serif;
+}
+
+.ftext p{
+    font-size: 15px;
+    color: white;
+    padding-top: 25px;
+}
+
+.Social_icons{
+    display: flex;
+}
+
+#social_icons_list img{
+    width:40px;
+    display: flex;
+    margin-left: 10px;
+    margin-top: 4px;
+}
+
+#twitter img{
+    padding-left: 40px;
+    width: 85px;
+    display: flex;
+    margin-top: 3px;
+}
+
+#youtube img{
+    width: 85px;
+    padding-left: 40px;
+    margin-top:6px;
+}
+
+#insta img{
+    width: 80px;
+    padding-left: 40px;
+    margin-top:6px;
+}
+
+#linkedin img{
+    width: 80px;
+    padding-left: 40px;
+    margin-top:6px;
+}
+
+.footer_logo{
+    display: flex;
+    margin-bottom: 35px;
+}
+
+#amg img{
+    width: 400px;
+    margin-top: 45px;
+    padding-left: 250px;
+}
+
+#daimler img{
+    width: 550px;
+    margin-top: 45px;
+    padding-left: 350px;
+}
+
+#smart img{
+    width: 450px;
+    margin-top: 45px;
+    padding-left: 300px;
+}
+
+.end_cnt p{
+    color: white;
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+

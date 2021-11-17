@@ -1,0 +1,45 @@
+.three-box-list{
+    background-color:#000 ;
+    text-align: center;
+    display: flex;
+    padding-left:450px;
+    
+  }
+  .under-three-box-list img{
+    color: white;
+    width:18rem;
+    height: 9rem;
+    background-color:#1e1d1d;
+    display: inline-block;
+    line-height:8rem ;
+    margin-left: 20px;
+    font-size: 21px;
+    text-align: center;
+  }
+  .under-three-box-list:hover{
+    border-bottom:0.4rem solid #00ADEF;
+  }
+  .three-link-menus{
+  background-color:black;
+  display: inline-block;
+  text-align: center;
+  padding-top: 1.4rem;
+  margin-left: 38%;
+  }
+  
+  .three-link-menus svg{
+  padding-right: 1rem;
+  }
+  .first-link-active{
+  color:#00ADEF;
+  }
+  .second-link-active{
+  color: #fff;
+  }
+  .third-link-active{
+  color: #fff;
+  }
+  .three-link-menus a{
+  padding-left: 1rem;
+  
+  }

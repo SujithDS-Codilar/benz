@@ -1,0 +1,45 @@
+#mySidenav a {
+    position: fixed; /* Position them relative to the browser window */
+    right: -55px; /* Position them outside of the screen */
+    transition: 0.3s; /* Add transition on hover */
+    padding: 10px; /* 15px padding */
+    width: 100px; /* Set a specific width */
+    text-decoration: none; /* Remove underline */
+    font-size: 20px; /* Increase font size */
+    color: white; /* White text color */
+    background-color: black;
+    margin-top: 200px;
+    padding-bottom: -10px;
+  }
+  
+  #mySidenav a:hover {
+    right: 0px; /* On mouse-over, make the elements appear as they should */
+    width: 300px;
+  }
+  
+  #car {
+    top: -5px;
+  }
+  
+  #car_settings {
+    top: 48px;
+  }
+  
+  #share{
+    top: 100px;
+  }
+
+  #car img{
+    width: 30px; 
+    height: 30px
+}
+
+#car_settings img{
+    width: 30px; 
+    height: 30px
+}
+
+#share img{
+    width: 30px; 
+    height: 30px
+}
