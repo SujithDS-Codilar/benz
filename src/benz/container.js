@@ -7,19 +7,19 @@ import Three_Box from "./three_box";
 import Grid from "./grid";
 import Footer_Text from "./footer_text";
 
-function Container(){
+function Container() {
     return (
-        
+
         <div className="container">
-        <Header />
-        <Carousel/>
-        <Search/>
-        <Content />
-        <Three_Box />
-        <Grid />
-        <Footer_Text />
+            <Header />
+            <Carousel />
+            <Search />
+            <Content />
+            <Three_Box />
+            <Grid />
+            <Footer_Text />
         </div>
-        
+
     );
 }
 

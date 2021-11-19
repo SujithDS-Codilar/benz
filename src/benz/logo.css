@@ -9,3 +9,17 @@
     padding-left: 10px;
     padding-top: 60px;
 }
+@media screen and (max-width:600px){
+    .brandhub_header .logo img{
+        width: 60px;
+        height: 60px;
+    }
+    .logo{
+        padding-top: 20px;
+        padding-left: 10px;
+    }
+    .brand_name{
+        width: 110px;
+        height: 100px;
+    }
+}

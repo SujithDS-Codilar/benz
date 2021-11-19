@@ -80,3 +80,15 @@
 .menu_search{
     display: none;
 }
+
+@media screen and (max-width: 600px) {
+   
+  
+    .nav_elements{
+        display: none;
+        
+    }
+    .p{
+        display: none;
+    }
+  }

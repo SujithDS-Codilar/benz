@@ -5,14 +5,14 @@ import './side_nav.css'
 
 
 
-function SideNav(){
-    return(
-        <div className="side_nav" id="mySidenav">
+function SideNav() {
+  return (
+    <div className="side_nav" id="mySidenav">
       <a href="#" id="car"><img src={sideimg1} alt="" />Product Page</a>
       <a href="#" id="car_settings"><img src={sideimg2} alt="" />Configurator</a>
       <a href="#" id="share"><img src={sideimg3} alt="" /> </a>
     </div>
-    );
+  );
 
 }
 

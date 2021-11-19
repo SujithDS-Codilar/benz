@@ -28,7 +28,7 @@ function Grid() {
         <span className="right-first-grid">
           <img src={grid2} alt="grid2" />
           <img src={grid3} alt="grid3" />
-          <img src={grid17} alt="grid17"/>
+          <img src={grid17} alt="grid17" />
         </span>
       </div>
       <div className="second-grid">
@@ -53,7 +53,7 @@ function Grid() {
       <div className="fifth-grid">
         <img src={grid13} alt="grid13" />
         <img src={grid14} alt="grid14" />
-        <img src={grid18} alt="grid18"/>
+        <img src={grid18} alt="grid18" />
       </div>
     </div>
   )
